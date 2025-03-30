@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/09978537-e68a-4d03-891a-2cde652344bb)This is a website that sells albums and merchandise for an artist
+This is a website that sells albums and merchandise for an artist
 The website includes a cart functionality to caclculate the total price of the items selected for purchase
 ![image](https://github.com/user-attachments/assets/ee2f0bf5-f635-488d-980a-d7d68659ccd5)
 here you can see a few of the products available for purchase on the website
